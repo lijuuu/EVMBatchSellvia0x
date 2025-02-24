@@ -10,7 +10,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "@moralisweb3/common-evm-utils": "^2.23.1",
+        "@moralisweb3/common-evm-utils": "^2.27.2",
         "ethers": "^5.7.2",
         "moralis": "^2.23.1",
         "node-telegram-bot-api": "^0.63.0"
