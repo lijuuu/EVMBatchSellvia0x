@@ -12,7 +12,7 @@
     "dependencies": {
         "@moralisweb3/common-evm-utils": "^2.23.1",
         "ethers": "^5.7.2",
-        "moralis": "^2.23.1",
+        "moralis": "^2.27.2",
         "node-telegram-bot-api": "^0.63.0"
     }
 }
